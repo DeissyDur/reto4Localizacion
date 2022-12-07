@@ -4,7 +4,7 @@ Desarrollo del reto 4 del ciclo 4 de Desarrollo Móvil, que permite el reconocim
 
 Equipo 4:
 
-Deissy Durán Rodríguez
-Jeckson Sampayo Mendoza
-Juan Campos Barrera
-Miguel Chavez
+- Deissy Durán Rodríguez
+- Jeckson Sampayo Mendoza
+- Juan Campos Barrera
+- Miguel Chavez
